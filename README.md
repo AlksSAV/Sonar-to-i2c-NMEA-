@@ -1,16 +1,23 @@
 # Sonar-to-i2c-NMEA-
-A cheap sonar project for autopilot based on Chinese modules. Four models(L04xMTW, GL04xMT, A02YYUW) from different manufacturers are used. It is quite possible that there are more of them, due to different manufacturers. These models have the same characteristics
+A project to obtain depth data for an autopilot based on Ardupilot. The data is output over the i2c bus. There is also an option for data transmission in nmea 0183 format. 
 
-##  Circuit diagram 
+Supported sonar models:
+- L041MTW
+- L042MTW
+- GL041MT
+- GL042MT
+- A02YYUW(slightly different)
 
+> [!NOTE]
+> the project is in the process of being created.
+
+##  Circuit diagram:
 to i2c
 
 ![Screenshot](i2c.png)
+
 ----------
 
 to nmea
 
-
-
-## Other
-
+----------
