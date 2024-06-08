@@ -12,9 +12,7 @@ Supported sonar models:
 > the project is in the process of being created.
 
 ##  Circuit diagram:
-to i2c
 
-![Screenshot](i2c.png)
 
 ----------
 
