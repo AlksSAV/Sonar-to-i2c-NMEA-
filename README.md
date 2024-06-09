@@ -1,6 +1,5 @@
 # Sonar-to: i2c-NMEA-MAVLINK
-A project to obtain depth data for an autopilot based on Ardupilot. The data is output over the i2c bus. There is also an option for data transmission in nmea 0183 format. 
-
+A project to obtain depth data for an autopilot based on Ardupilot.
 Supported sonar models:
 - L041MTW
 - L042MTW
