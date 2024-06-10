@@ -1,4 +1,4 @@
-# Sonar-to: i2c-NMEA-MAVLINK
+# Sonar to: i2c, NMEA, MAVLINK
 A project to obtain depth data for an autopilot based on Ardupilot.
 Supported sonar models:
 - L041MTW
@@ -12,9 +12,7 @@ Supported sonar models:
 
 ##  Circuit diagram:
 
+----------
 
 ----------
 
-to nmea
-
-----------
