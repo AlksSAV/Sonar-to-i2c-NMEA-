@@ -11,7 +11,12 @@ Supported sonar models:
 ![Screenshot](sonar.png)
 
 > [!NOTE]
-> the project is in the process of being created.
+> the project is in the process 
+
+- [x] to nmea0183
+- [x] to Mavlink
+- [ ] To i2c 
+
 
 ##  Circuit diagram:
 
