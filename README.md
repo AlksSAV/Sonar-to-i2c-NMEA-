@@ -7,6 +7,9 @@ Supported sonar models:
 - GL042MT
 - A02YYUW(slightly different)
 
+
+![Screenshot](sonar.png)
+
 > [!NOTE]
 > the project is in the process of being created.
 
