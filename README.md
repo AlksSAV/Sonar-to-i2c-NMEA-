@@ -19,15 +19,14 @@ Supported sonar models:
 - [ ] To i2c 
 
 ----------
-
 ##  Circuit diagram:
+    The sensor can be connected to any available serial port on the autopilot.
 
 ![Screenshot](diagram.png)
 
 ##  ARDUPILOT SETUP:
 
 Data from the sensor can be received using two protocols: NMEA and MAVLINK.  Based on the protocol, you need to select the desired configuration options.
-The sensor can be connected to any available serial/uart port on the autopilot.
 ----------
    - NMEA:
      
