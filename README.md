@@ -17,10 +17,12 @@ Supported sonar models:
 - [x] to Mavlink
 - [ ] To i2c 
 
+----------
 
 ##  Circuit diagram:
 
-----------
+![Screenshot](diagram.png)
 
-----------
+
+
 
